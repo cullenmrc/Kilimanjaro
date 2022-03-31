@@ -8,7 +8,7 @@ public class Zoo
         
         /**
          * With the giraffe, we have access to methods from the 
-         * Species class and the Giraffe class.
+         * Species class AND the Giraffe class.
          */
          
         

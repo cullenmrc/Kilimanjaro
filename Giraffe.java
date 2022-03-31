@@ -1,4 +1,4 @@
-public class Giraffe extends Species
+public class Giraffe
 {
     // Attributes ("State") of all Giraffe objects
     
@@ -20,7 +20,7 @@ public class Giraffe extends Species
     
     // Classes contain "instructions" on how Objects carry out certain "Behaviors".
     //These "instructions" are called "methods".
-    // The methods ("Behaviors" or "actions") of the class will go here
+    // The methods ("Behaviors" or "actions") of the Giraffe class will go here
     
     
  

@@ -15,7 +15,7 @@ public class Species
     
     // Classes contain "instructions" on how Objects carry out certain "Behaviors".
     //These "instructions" are called "methods".
-    // The methods ("Behaviors" or "actions") of the class will go here
+    // The methods ("Behaviors" or "actions") of the Species class will go here
     
     
     
